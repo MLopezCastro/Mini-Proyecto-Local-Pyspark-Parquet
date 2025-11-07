@@ -23,7 +23,6 @@ Mini-Proyecto-Local-Pyspark-Parquet/
 
 ### 1️⃣ Crear y activar entorno virtual
 
-```powershell
 py -3.11 -m venv .venv
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 .\.venv\Scripts\Activate.ps1

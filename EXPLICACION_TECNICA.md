@@ -1,15 +1,11 @@
 
 ---
 
-### ✅ Versión corregida de `EXPLICACION_TECNICA.md`
-
-```markdown
 # ⚙️ Mini-Proyecto Local PySpark – Explicación Técnica
 
 ## 🧩 Estructura del proyecto
 
 ```
-
 Mini-Proyecto-Local-Pyspark-Parquet/
 ├─ .venv/                     ← entorno virtual
 ├─ data/
@@ -20,8 +16,7 @@ Mini-Proyecto-Local-Pyspark-Parquet/
 │  └─ ventas_agg/             ← salida Parquet particionada
 ├─ nyc_simple.py              ← script principal
 └─ README.md
-
-````
+```
 
 ---
 
@@ -33,7 +28,7 @@ Mini-Proyecto-Local-Pyspark-Parquet/
 py -3.11 -m venv .venv
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 .\.venv\Scripts\Activate.ps1
-````
+```
 
 ### 2️⃣ Instalar dependencias
 
@@ -192,9 +187,6 @@ desde la configuración de entorno hasta la escritura optimizada en **Parquet pa
 
 El resultado es un pipeline reproducible, portable y que muestra los fundamentos del procesamiento distribuido de datos con Spark SQL.
 
-```
-
 ---
 
 
-```

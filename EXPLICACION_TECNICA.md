@@ -1,8 +1,4 @@
 
----
-
-### ✅ Versión corregida de `EXPLICACION_TECNICA.md`
-
 ```markdown
 # ⚙️ Mini-Proyecto Local PySpark – Explicación Técnica
 

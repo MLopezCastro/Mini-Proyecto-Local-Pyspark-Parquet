@@ -1,6 +1,10 @@
 
+<<<<<<< HEAD
 ---
 
+=======
+```
+>>>>>>> f61bf43a2046d3f73f5c08b479e42cf198135c4d
 # ⚙️ Mini-Proyecto Local PySpark – Explicación Técnica
 
 ## 🧩 Estructura del proyecto
@@ -18,13 +22,10 @@ Mini-Proyecto-Local-Pyspark-Parquet/
 └─ README.md
 ```
 
----
-
 ## ⚙️ Preparación del entorno
 
 ### 1️⃣ Crear y activar entorno virtual
 
-```powershell
 py -3.11 -m venv .venv
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 .\.venv\Scripts\Activate.ps1

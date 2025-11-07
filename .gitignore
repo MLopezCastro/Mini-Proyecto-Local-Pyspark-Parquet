@@ -1,6 +1,2 @@
-﻿data/
-output/
-.venv/
-*.parquet
-*.csv
-*.ipynb_checkpoints/
+﻿.venv/
+

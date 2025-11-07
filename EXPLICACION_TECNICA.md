@@ -19,8 +19,6 @@ Mini-Proyecto-Local-Pyspark-Parquet/
 
 ````
 
----
-
 ## ⚙️ Preparación del entorno
 
 ### 1️⃣ Crear y activar entorno virtual

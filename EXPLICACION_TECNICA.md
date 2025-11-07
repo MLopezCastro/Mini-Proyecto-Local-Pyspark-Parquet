@@ -1,12 +1,14 @@
 
-## ⚙️ EXPLICACION_TECNICA.md
+---
+
+### ✅ Versión corregida de `EXPLICACION_TECNICA.md`
 
 ```markdown
 # ⚙️ Mini-Proyecto Local PySpark – Explicación Técnica
 
 ## 🧩 Estructura del proyecto
 
-````
+```
 
 Mini-Proyecto-Local-Pyspark-Parquet/
 ├─ .venv/                     ← entorno virtual
@@ -171,7 +173,7 @@ python .\nyc_simple.py
 
 ---
 
-## 🧩 Git ignore recomendado
+## 🧩 .gitignore recomendado
 
 ```
 .venv/
@@ -188,9 +190,11 @@ logs/**
 Este proyecto demuestra cómo correr **PySpark localmente en Windows**,
 desde la configuración de entorno hasta la escritura optimizada en **Parquet particionado**.
 
-El resultado es un pipeline reproducible, portable y que muestra los fundamentos de procesamiento distribuido de datos con Spark SQL.
+El resultado es un pipeline reproducible, portable y que muestra los fundamentos del procesamiento distribuido de datos con Spark SQL.
 
 ```
 
 ---
 
+
+```

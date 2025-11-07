@@ -1,10 +1,3 @@
-
-<<<<<<< HEAD
----
-
-=======
-```
->>>>>>> f61bf43a2046d3f73f5c08b479e42cf198135c4d
 # ⚙️ Mini-Proyecto Local PySpark – Explicación Técnica
 
 ## 🧩 Estructura del proyecto
@@ -22,10 +15,13 @@ Mini-Proyecto-Local-Pyspark-Parquet/
 └─ README.md
 ```
 
+---
+
 ## ⚙️ Preparación del entorno
 
 ### 1️⃣ Crear y activar entorno virtual
 
+```powershell
 py -3.11 -m venv .venv
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 .\.venv\Scripts\Activate.ps1
@@ -187,7 +183,3 @@ Este proyecto demuestra cómo correr **PySpark localmente en Windows**,
 desde la configuración de entorno hasta la escritura optimizada en **Parquet particionado**.
 
 El resultado es un pipeline reproducible, portable y que muestra los fundamentos del procesamiento distribuido de datos con Spark SQL.
-
----
-
-

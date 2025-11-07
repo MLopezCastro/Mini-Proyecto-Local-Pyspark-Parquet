@@ -1,4 +1,4 @@
-
+---
 ```
 # ⚙️ Mini-Proyecto Local PySpark – Explicación Técnica
 

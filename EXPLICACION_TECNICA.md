@@ -1,5 +1,5 @@
 
-```markdown
+```
 # ⚙️ Mini-Proyecto Local PySpark – Explicación Técnica
 
 ## 🧩 Estructura del proyecto
